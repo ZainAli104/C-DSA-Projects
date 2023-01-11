@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "queue": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
